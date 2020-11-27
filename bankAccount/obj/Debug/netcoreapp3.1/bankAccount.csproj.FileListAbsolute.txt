@@ -1,0 +1,13 @@
+G:\Documents\learnCsharp\bankAccount\bin\Debug\netcoreapp3.1\bankAccount.exe
+G:\Documents\learnCsharp\bankAccount\bin\Debug\netcoreapp3.1\bankAccount.deps.json
+G:\Documents\learnCsharp\bankAccount\bin\Debug\netcoreapp3.1\bankAccount.runtimeconfig.json
+G:\Documents\learnCsharp\bankAccount\bin\Debug\netcoreapp3.1\bankAccount.runtimeconfig.dev.json
+G:\Documents\learnCsharp\bankAccount\bin\Debug\netcoreapp3.1\bankAccount.dll
+G:\Documents\learnCsharp\bankAccount\bin\Debug\netcoreapp3.1\bankAccount.pdb
+G:\Documents\learnCsharp\bankAccount\obj\Debug\netcoreapp3.1\bankAccount.csprojAssemblyReference.cache
+G:\Documents\learnCsharp\bankAccount\obj\Debug\netcoreapp3.1\bankAccount.AssemblyInfoInputs.cache
+G:\Documents\learnCsharp\bankAccount\obj\Debug\netcoreapp3.1\bankAccount.AssemblyInfo.cs
+G:\Documents\learnCsharp\bankAccount\obj\Debug\netcoreapp3.1\bankAccount.csproj.CoreCompileInputs.cache
+G:\Documents\learnCsharp\bankAccount\obj\Debug\netcoreapp3.1\bankAccount.dll
+G:\Documents\learnCsharp\bankAccount\obj\Debug\netcoreapp3.1\bankAccount.pdb
+G:\Documents\learnCsharp\bankAccount\obj\Debug\netcoreapp3.1\bankAccount.genruntimeconfig.cache

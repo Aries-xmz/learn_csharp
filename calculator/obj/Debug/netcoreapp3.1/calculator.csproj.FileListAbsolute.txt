@@ -1,0 +1,13 @@
+G:\Documents\vscode\learncsharp\calculator\bin\Debug\netcoreapp3.1\calculator.exe
+G:\Documents\vscode\learncsharp\calculator\bin\Debug\netcoreapp3.1\calculator.deps.json
+G:\Documents\vscode\learncsharp\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.json
+G:\Documents\vscode\learncsharp\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.dev.json
+G:\Documents\vscode\learncsharp\calculator\bin\Debug\netcoreapp3.1\calculator.dll
+G:\Documents\vscode\learncsharp\calculator\bin\Debug\netcoreapp3.1\calculator.pdb
+G:\Documents\vscode\learncsharp\calculator\obj\Debug\netcoreapp3.1\calculator.csprojAssemblyReference.cache
+G:\Documents\vscode\learncsharp\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfoInputs.cache
+G:\Documents\vscode\learncsharp\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfo.cs
+G:\Documents\vscode\learncsharp\calculator\obj\Debug\netcoreapp3.1\calculator.csproj.CoreCompileInputs.cache
+G:\Documents\vscode\learncsharp\calculator\obj\Debug\netcoreapp3.1\calculator.dll
+G:\Documents\vscode\learncsharp\calculator\obj\Debug\netcoreapp3.1\calculator.pdb
+G:\Documents\vscode\learncsharp\calculator\obj\Debug\netcoreapp3.1\calculator.genruntimeconfig.cache

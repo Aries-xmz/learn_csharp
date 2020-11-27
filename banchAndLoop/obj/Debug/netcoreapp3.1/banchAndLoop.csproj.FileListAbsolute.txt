@@ -1,0 +1,13 @@
+G:\Documents\learnCsharp\banchandloop\bin\Debug\netcoreapp3.1\banchAndLoop.exe
+G:\Documents\learnCsharp\banchandloop\bin\Debug\netcoreapp3.1\banchAndLoop.deps.json
+G:\Documents\learnCsharp\banchandloop\bin\Debug\netcoreapp3.1\banchAndLoop.runtimeconfig.json
+G:\Documents\learnCsharp\banchandloop\bin\Debug\netcoreapp3.1\banchAndLoop.runtimeconfig.dev.json
+G:\Documents\learnCsharp\banchandloop\bin\Debug\netcoreapp3.1\banchAndLoop.dll
+G:\Documents\learnCsharp\banchandloop\bin\Debug\netcoreapp3.1\banchAndLoop.pdb
+G:\Documents\learnCsharp\banchandloop\obj\Debug\netcoreapp3.1\banchAndLoop.csprojAssemblyReference.cache
+G:\Documents\learnCsharp\banchandloop\obj\Debug\netcoreapp3.1\banchAndLoop.AssemblyInfoInputs.cache
+G:\Documents\learnCsharp\banchandloop\obj\Debug\netcoreapp3.1\banchAndLoop.AssemblyInfo.cs
+G:\Documents\learnCsharp\banchandloop\obj\Debug\netcoreapp3.1\banchAndLoop.csproj.CoreCompileInputs.cache
+G:\Documents\learnCsharp\banchandloop\obj\Debug\netcoreapp3.1\banchAndLoop.dll
+G:\Documents\learnCsharp\banchandloop\obj\Debug\netcoreapp3.1\banchAndLoop.pdb
+G:\Documents\learnCsharp\banchandloop\obj\Debug\netcoreapp3.1\banchAndLoop.genruntimeconfig.cache

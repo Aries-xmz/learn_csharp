@@ -1,0 +1,13 @@
+G:\Documents\learnCsharp\basic6\bin\Debug\netcoreapp3.1\basic6.exe
+G:\Documents\learnCsharp\basic6\bin\Debug\netcoreapp3.1\basic6.deps.json
+G:\Documents\learnCsharp\basic6\bin\Debug\netcoreapp3.1\basic6.runtimeconfig.json
+G:\Documents\learnCsharp\basic6\bin\Debug\netcoreapp3.1\basic6.runtimeconfig.dev.json
+G:\Documents\learnCsharp\basic6\bin\Debug\netcoreapp3.1\basic6.dll
+G:\Documents\learnCsharp\basic6\bin\Debug\netcoreapp3.1\basic6.pdb
+G:\Documents\learnCsharp\basic6\obj\Debug\netcoreapp3.1\basic6.csprojAssemblyReference.cache
+G:\Documents\learnCsharp\basic6\obj\Debug\netcoreapp3.1\basic6.AssemblyInfoInputs.cache
+G:\Documents\learnCsharp\basic6\obj\Debug\netcoreapp3.1\basic6.AssemblyInfo.cs
+G:\Documents\learnCsharp\basic6\obj\Debug\netcoreapp3.1\basic6.csproj.CoreCompileInputs.cache
+G:\Documents\learnCsharp\basic6\obj\Debug\netcoreapp3.1\basic6.dll
+G:\Documents\learnCsharp\basic6\obj\Debug\netcoreapp3.1\basic6.pdb
+G:\Documents\learnCsharp\basic6\obj\Debug\netcoreapp3.1\basic6.genruntimeconfig.cache

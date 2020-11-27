@@ -1,0 +1,13 @@
+G:\Documents\vscode\learncsharp\helloworld\bin\Debug\netcoreapp3.1\helloworld.exe
+G:\Documents\vscode\learncsharp\helloworld\bin\Debug\netcoreapp3.1\helloworld.deps.json
+G:\Documents\vscode\learncsharp\helloworld\bin\Debug\netcoreapp3.1\helloworld.runtimeconfig.json
+G:\Documents\vscode\learncsharp\helloworld\bin\Debug\netcoreapp3.1\helloworld.runtimeconfig.dev.json
+G:\Documents\vscode\learncsharp\helloworld\bin\Debug\netcoreapp3.1\helloworld.dll
+G:\Documents\vscode\learncsharp\helloworld\bin\Debug\netcoreapp3.1\helloworld.pdb
+G:\Documents\vscode\learncsharp\helloworld\obj\Debug\netcoreapp3.1\helloworld.csprojAssemblyReference.cache
+G:\Documents\vscode\learncsharp\helloworld\obj\Debug\netcoreapp3.1\helloworld.AssemblyInfoInputs.cache
+G:\Documents\vscode\learncsharp\helloworld\obj\Debug\netcoreapp3.1\helloworld.AssemblyInfo.cs
+G:\Documents\vscode\learncsharp\helloworld\obj\Debug\netcoreapp3.1\helloworld.csproj.CoreCompileInputs.cache
+G:\Documents\vscode\learncsharp\helloworld\obj\Debug\netcoreapp3.1\helloworld.dll
+G:\Documents\vscode\learncsharp\helloworld\obj\Debug\netcoreapp3.1\helloworld.pdb
+G:\Documents\vscode\learncsharp\helloworld\obj\Debug\netcoreapp3.1\helloworld.genruntimeconfig.cache

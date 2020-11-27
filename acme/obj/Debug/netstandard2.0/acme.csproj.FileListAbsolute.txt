@@ -1,0 +1,9 @@
+G:\Documents\learnCsharp\acme\bin\Debug\netstandard2.0\acme.deps.json
+G:\Documents\learnCsharp\acme\bin\Debug\netstandard2.0\acme.dll
+G:\Documents\learnCsharp\acme\bin\Debug\netstandard2.0\acme.pdb
+G:\Documents\learnCsharp\acme\obj\Debug\netstandard2.0\acme.csprojAssemblyReference.cache
+G:\Documents\learnCsharp\acme\obj\Debug\netstandard2.0\acme.AssemblyInfoInputs.cache
+G:\Documents\learnCsharp\acme\obj\Debug\netstandard2.0\acme.AssemblyInfo.cs
+G:\Documents\learnCsharp\acme\obj\Debug\netstandard2.0\acme.csproj.CoreCompileInputs.cache
+G:\Documents\learnCsharp\acme\obj\Debug\netstandard2.0\acme.dll
+G:\Documents\learnCsharp\acme\obj\Debug\netstandard2.0\acme.pdb

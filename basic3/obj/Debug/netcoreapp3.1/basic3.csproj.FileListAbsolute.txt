@@ -1,0 +1,16 @@
+G:\Documents\learnCsharp\basic3\obj\Debug\netcoreapp3.1\basic3.csprojAssemblyReference.cache
+G:\Documents\learnCsharp\basic3\obj\Debug\netcoreapp3.1\basic3.AssemblyInfoInputs.cache
+G:\Documents\learnCsharp\basic3\obj\Debug\netcoreapp3.1\basic3.AssemblyInfo.cs
+G:\Documents\learnCsharp\basic3\obj\Debug\netcoreapp3.1\basic3.csproj.CoreCompileInputs.cache
+G:\Documents\learnCsharp\basic3\bin\Debug\netcoreapp3.1\basic3.exe
+G:\Documents\learnCsharp\basic3\bin\Debug\netcoreapp3.1\basic3.deps.json
+G:\Documents\learnCsharp\basic3\bin\Debug\netcoreapp3.1\basic3.runtimeconfig.json
+G:\Documents\learnCsharp\basic3\bin\Debug\netcoreapp3.1\basic3.runtimeconfig.dev.json
+G:\Documents\learnCsharp\basic3\bin\Debug\netcoreapp3.1\basic3.dll
+G:\Documents\learnCsharp\basic3\bin\Debug\netcoreapp3.1\basic3.pdb
+G:\Documents\learnCsharp\basic3\bin\Debug\netcoreapp3.1\acme.dll
+G:\Documents\learnCsharp\basic3\bin\Debug\netcoreapp3.1\acme.pdb
+G:\Documents\learnCsharp\basic3\obj\Debug\netcoreapp3.1\basic3.csproj.CopyComplete
+G:\Documents\learnCsharp\basic3\obj\Debug\netcoreapp3.1\basic3.dll
+G:\Documents\learnCsharp\basic3\obj\Debug\netcoreapp3.1\basic3.pdb
+G:\Documents\learnCsharp\basic3\obj\Debug\netcoreapp3.1\basic3.genruntimeconfig.cache
