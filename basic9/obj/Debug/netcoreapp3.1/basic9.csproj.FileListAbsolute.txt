@@ -1,0 +1,13 @@
+G:\Documents\learncsharp\basic9\bin\Debug\netcoreapp3.1\basic9.exe
+G:\Documents\learncsharp\basic9\bin\Debug\netcoreapp3.1\basic9.deps.json
+G:\Documents\learncsharp\basic9\bin\Debug\netcoreapp3.1\basic9.runtimeconfig.json
+G:\Documents\learncsharp\basic9\bin\Debug\netcoreapp3.1\basic9.runtimeconfig.dev.json
+G:\Documents\learncsharp\basic9\bin\Debug\netcoreapp3.1\basic9.dll
+G:\Documents\learncsharp\basic9\bin\Debug\netcoreapp3.1\basic9.pdb
+G:\Documents\learncsharp\basic9\obj\Debug\netcoreapp3.1\basic9.csprojAssemblyReference.cache
+G:\Documents\learncsharp\basic9\obj\Debug\netcoreapp3.1\basic9.AssemblyInfoInputs.cache
+G:\Documents\learncsharp\basic9\obj\Debug\netcoreapp3.1\basic9.AssemblyInfo.cs
+G:\Documents\learncsharp\basic9\obj\Debug\netcoreapp3.1\basic9.csproj.CoreCompileInputs.cache
+G:\Documents\learncsharp\basic9\obj\Debug\netcoreapp3.1\basic9.dll
+G:\Documents\learncsharp\basic9\obj\Debug\netcoreapp3.1\basic9.pdb
+G:\Documents\learncsharp\basic9\obj\Debug\netcoreapp3.1\basic9.genruntimeconfig.cache
